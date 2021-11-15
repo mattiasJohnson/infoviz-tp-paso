@@ -3,6 +3,15 @@
 > En las Elecciones Primarias, Abiertas, Simultáneas y Obligatorias (PASO) se eligen a los partidos que estarán habilitados a presentarse a elecciones nacionales y la lista de candidatos que representará a cada partido.
 > ([dw.com](https://www.dw.com/es/paso/t-48807927))
 
+## Colab
+
+För stora
+
+* buenos_aires_primera
+* buenos_aires_terceras
+
+
+
 
 
 ## svg
